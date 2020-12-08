@@ -14,6 +14,7 @@ This is an example of Terraform project which deploys a Secure web application u
     • NAT Gateway  
     • Accessible by SSH 
     • Terraform Custom Module
+    • RDS with Multi-Az
 
 
 # How do I get set up?
